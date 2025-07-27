@@ -15,5 +15,6 @@ A simple yet powerful Todo List web application built with modern JavaScript. Th
 💾 LocalStorage support (data persists on refresh)
 
 🚀 Technologies Used
+
 HTML5 / CSS3
 ReactJS
